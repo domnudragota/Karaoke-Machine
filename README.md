@@ -39,6 +39,7 @@ Click the "Load Lyrics" button and select a text file containing the lyrics.
 - Enter 'file' to load a local audio file or 'youtube' to play a YouTube link.
 - If 'file' is chosen, click the "Load Audio File" button and select an audio file.
 - If 'youtube' is chosen, enter the YouTube URL when prompted.
+  
 **Start Karaoke:**
 - Click the "Start Karaoke" button to begin the session.
 
