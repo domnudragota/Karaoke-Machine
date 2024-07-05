@@ -18,6 +18,14 @@ The Karaoke Machine is a Python-based application that provides a fun and intera
    ```bash
    git clone https://github.com/yourusername/karaoke-machine.git
    cd karaoke-machine
+
+- **Make sure you have the following modules:**
+
+```bash
+tk
+speechrecognition
+python-vlc
+```
 2. **Usage:**
 Run the Karaoke Machine:
 ```bash
